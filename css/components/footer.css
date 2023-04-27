@@ -1,0 +1,20 @@
+.footer {
+  background: linear-gradient(to right, #220101, #4a0000);
+  text-align: center;
+}
+
+.footer ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.footer ul li {
+  margin: 10px;
+}
+
+.footer ul li i {
+  color: rgb(52, 4, 4);
+  -webkit-text-stroke-width: 0.8px;
+  -webkit-text-stroke-color: goldenrod;
+}
